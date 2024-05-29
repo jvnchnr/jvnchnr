@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jan
 - 👀 I’m interested in Networking, Linux and Docker
 - 🌱 I’m currently learning different stuff
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me on Matrix
 - ⚡ Fun fact: ...
 
 <!---

@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Jan
-- 👀 I’m interested in Networking, Linux and Docker
+- 👀 I’m interested in networking, Linux and Docker
 - 🌱 I’m currently learning different stuff
 - 📫 How to reach me on Matrix
-- ⚡ Fun fact: ...
+
+https://matrix.to/#/@jan:matrix.anadrol.de
+
+- ⚡ Fun fact: Lego mini-figures have the largest population on Earth!
 
 <!---
 jvnchnr/jvnchnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
